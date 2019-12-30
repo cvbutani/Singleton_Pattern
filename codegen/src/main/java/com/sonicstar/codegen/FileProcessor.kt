@@ -13,7 +13,6 @@ import javax.lang.model.element.TypeElement
 
 /**
  * Created by cbutani on 12/30/2019.
- * Copyright (c) 2019 ANGUS SYSTEMS
  **/
 
 @AutoService(Processor::class) // For registering the service
